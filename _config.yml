@@ -5,9 +5,11 @@ emailLink: nbecker6@jhu.edu
 description: > # this means to ignore newlines until "baseurl:"
   Department of Cognitive Science, <br>
   Johns Hopkins University
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://callmenick.net" # the base hostname & protocol for your site
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://callmenick.net" # the base hostname & protocol for your site
 #github_username:  nrbecker
+
+#CNAME (http://callmenick.com)
 
 # Build settings
 markdown: kramdown
