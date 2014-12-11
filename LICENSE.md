@@ -1,6 +1,10 @@
-The MIT License (MIT)
+The following directory is Copyright (c) 2014 Nicholas Becker. No content in that directory may be reused without my permission: 
 
-Copyright (c) 2014 Nicholas Becker
+_posts/
+
+The use of all other directories and their content is governed by the MIT License: 
+
+The MIT License (MIT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -5,4 +5,4 @@ This is the academic website of Nicholas Becker, a PhD student in Cognitive Scie
 
 This site is hosted by [GitHub Pages](http://pages.github.com/) and was developed using [Jekyll](http://jekyllrb.com/). 
 
-Work on this site is intermittent but ongoing. Its design is simply a customized version of the basic Jekyll layout (no pre-created theme).
+Work on this site is intermittent but ongoing. 
