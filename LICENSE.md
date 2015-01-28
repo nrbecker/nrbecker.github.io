@@ -1,4 +1,4 @@
-The following directory is Copyright (c) 2014 Nicholas Becker. No content in that directory may be reused without my permission: 
+The following directory is Copyright (c) 2015 Nicholas Becker. No content in that directory may be reused without my permission: 
 
 _posts/
 
