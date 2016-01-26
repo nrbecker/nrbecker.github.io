@@ -5,10 +5,10 @@ email: nbecker6 - at - jhu - dot - edu
 description: >
  Homepage of Nicholas Becker, a graduate student in the Department of Cognitive Science at Johns Hopkins University.
 #baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://callmenick.net" # the base hostname & protocol for your site
+#url: "http://nickbecker.net" # the base hostname & protocol for your site
 #github_username:  nrbecker
 
-#CNAME (http://callmenick.com)
+#CNAME (http://nickbecker.com)
 
 # Build settings
 markdown: kramdown
